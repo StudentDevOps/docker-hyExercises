@@ -1,2 +1,2 @@
 # docker-hyExercises
-Excersise return for University of Helsinki Docker DevOps course -19.
+Exercise returns for University of Helsinki Docker DevOps course -19.
