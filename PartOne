@@ -1,0 +1,19 @@
+1.1
+
+$docker ps -a
+CONTAINER ID        IMAGE               COMMAND                  CREATED              STATUS                      PORTS               NAMES
+628645d2a842        memcached           "docker-entrypoint.s…"   About a minute ago   Up About a minute           11211/tcp           focused_johnson
+aad2a180b4db        httpd               "httpd-foreground"       2 minutes ago        Exited (0) 5 seconds ago                        keen_gagarin
+d1c122d63c82        nginx               "nginx -g 'daemon of…"   7 minutes ago        Exited (0) 18 seconds ago                       thirsty_heyrovsky
+
+
+1.2
+
+$docker ps -a
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES
+
+$docker images
+REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
+
+
+
